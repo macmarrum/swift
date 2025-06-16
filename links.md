@@ -1,3 +1,3 @@
 |||
 |-|-|
-| Community Readiness Deck | https://www.swift.com/swift_resource/251878 |
+| ISO 20022 Community Readiness Deck | https://www.swift.com/swift_resource/251878 |
